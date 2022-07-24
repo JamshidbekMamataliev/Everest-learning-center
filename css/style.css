@@ -356,6 +356,11 @@ rasm1{
     height: 70px;
     width: 90.66px;
 }
+.maps{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
 
 
 
